@@ -1,5 +1,0 @@
-name: ElytrianNerf
-version: 1.4
-main: com.example.elytriannerve.ElytrianNerf
-api-version: '1.20'
-softdepend: [Origins-Reborn]

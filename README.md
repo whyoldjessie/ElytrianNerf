@@ -2,11 +2,11 @@
 
 **Язык / Language:** 🇷🇺 конфиг, комментарии в нём и сообщения игрокам на русском (сообщения меняются в `messages.*`). Код и логи плагина тоже на русском.
 
-Небольшой **аддон для [Origins-Reborn](https://github.com/cometcake575/Origins-Reborn)** (Paper 1.20+), который ослабляет способность Элитриана `origins:elytra`: после удара и после воды полёт временно недоступен, в полёте расходуется сытость.
+Небольшой **аддон для [Origins-Reborn](https://github.com/cometcake575/Origins-Reborn)** (Paper 1.20+), который ослабляет способность Элитриана `origins:elytrian`: после удара и после воды полёт временно недоступен, в полёте расходуется сытость.
 
 > ⚠️ Это неофициальный аддон. Он не связан с автором Origins-Reborn и не содержит его кода: плагин лишь обращается к API Origins-Reborn через рефлексию. Origins-Reborn нужно ставить отдельно ([Modrinth](https://modrinth.com/plugin/origins-reborn), [GitHub](https://github.com/cometcake575/Origins-Reborn)). Все права на оригинальный плагин принадлежат его автору.
 
-*English:* the config, its comments and the in-game messages are in Russian (messages are editable in `messages.*`). An unofficial add-on for Origins-Reborn that nerfs the Elytrian `origins:elytra` ability (flight lock after being hit / leaving water, hunger "fuel" while gliding, creative-flight fix). It requires Origins-Reborn and is not affiliated with its author.
+*English:* the config, its comments and the in-game messages are in Russian (messages are editable in `messages.*`). An unofficial add-on for Origins-Reborn that nerfs the Elytrian `origins:elytrian` ability (flight lock after being hit / leaving water, hunger "fuel" while gliding, creative-flight fix). It requires Origins-Reborn and is not affiliated with its author.
 
 ## Возможности
 
